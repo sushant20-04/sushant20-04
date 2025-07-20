@@ -27,7 +27,7 @@ I’m a dual-degree Electrical Engineering student at IIT Gandhinagar with a pas
 - 🔋 [Analog LDO Regulator in 180nm CMOS](https://github.com/sushant20-04/Low-Dropout-Regulator): Full custom regulator with Miller compensation, high PSRR  
 - ✈️ [Flight Controller using Aries V3](https://github.com/sushant20-04/Flight_Controller): Embedded quadcopter controller with PID + sensor fusion  
 - 🔐 Signal Scrambler and Descrambler: Hardware-level analog encryption using op-amps and MOSFET switching (LTspice + KiCad)  
-- 🧮 3T Multi-bit RRAM for In-Memory Compute: Verilog-A modeling and VMM circuits in Cadence
+- 🧠 3T Multi-bit RRAM for In-Memory Compute: Verilog-A modeling and VMM circuits in Cadence
 
 ---
 
