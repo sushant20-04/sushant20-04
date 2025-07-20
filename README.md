@@ -5,12 +5,12 @@ I'm an Electrical Engineering dual-degree student at IIT Gandhinagar with deep i
 ---
 
 ### 🔬 Interests
-- Power Management IC Design (LDOs, Bandgaps)
-- Memory Technologies (RRAM, FeFETs, DRAM)
-- Digital Design and RTL Modeling (Verilog, Systolic Arrays)
-- Embedded Systems (STM32, NRF24, Arduino)
-- Signal Processing and Control (Flight Controllers, PID)
-- Python-based Semiconductor Modeling (Mobility, Quantum Confinement)
+- Power Management IC Design (LDOs, Closed Loop Converters)
+- Memory Technologies and Modeling (RRAM, Verilog-A)
+- Digital Design (Verilog, Systolic Arrays)
+- Embedded Systems (STM32, Arduino, Aries v3)
+- Signal Processing (Kalman Filtering, Complementary Filter, Adaptive Filtering)
+- Control Systems (PID) 
 
 ---
 
@@ -18,7 +18,7 @@ I'm an Electrical Engineering dual-degree student at IIT Gandhinagar with deep i
 - **EDA**: Cadence Virtuoso, LTspice, KiCad  
 - **Embedded**: STM32CubeIDE, Arduino IDE  
 - **Languages**: Verilog, Verilog-A, Python, MATLAB  
-- **Others**: Git, Xilinx Vivado, LaTeX, Linux
+- **Others**: Xilinx Vivado, LaTeX
 
 ---
 
@@ -33,8 +33,7 @@ I'm an Electrical Engineering dual-degree student at IIT Gandhinagar with deep i
 
 ### 📫 Reach Me
 - 📧 Email: sushant.gudmewar@iitgn.ac.in  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sushant-gudmewar-aaa770260/)  
-- 🌐 [Personal Website (if any)]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sushant-gudmewar-aaa770260/)    
 
 ---
 
