@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sushant Gudmewar
 
-I'm an Electrical Engineering dual-degree student at IIT Gandhinagar with deep interests in **VLSI Design**, **Embedded Systems**, and **Analog & Mixed-Signal Circuits**. I enjoy bridging the gap between hardware and software — from designing power-efficient analog blocks in CMOS to deploying neural networks on FPGAs.
+I'm an Electrical Engineering dual-degree student at IIT Gandhinagar with deep interests in **VLSI Design** and **Control Systems**. I enjoy bridging the gap between hardware and software — from designing power-efficient analog blocks in CMOS to deploying neural networks on FPGAs.
 
 ---
 
