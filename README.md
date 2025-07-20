@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sushant Gudmewar
+# Hi, I'm Sushant Gudmewar
 
 I’m a dual-degree Electrical Engineering student at IIT Gandhinagar with a passion for **VLSI Design**, **Embedded Systems**, and **Control Theory**. My work spans the spectrum from analog IC design in deep-submicron CMOS to deploying algorithms on microcontrollers and FPGAs. I enjoy crafting reliable systems where **physics meets computation**.
 
